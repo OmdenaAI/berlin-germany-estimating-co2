@@ -11,7 +11,7 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |         |
+|1|   Data Scrapping      |    Scrapping data from websites to generate dataset for food products/categories     |
 |2|         |         |
 |3|         |         |
 |4|         |         |
