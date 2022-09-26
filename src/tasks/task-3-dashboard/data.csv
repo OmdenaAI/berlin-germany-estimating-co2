@@ -1,0 +1,80 @@
+,item,CO2_per_kg,CO2_level
+0,Almonds,6.1,MEDIUM
+1,Apple pie,2.9,MEDIUM
+2,Apples,0.3,LOW
+3,"Apricots, dried",2.4,LOW
+4,Avocado,1.1,LOW
+5,Bananas,0.5,LOW
+6,Beef fillet steak,64.8,VERY HIGH
+7,Beef mince,21.0,VERY HIGH
+8,Beef ribeye steak,45.5,VERY HIGH
+9,Beef sirloin steak,31.8,VERY HIGH
+10,"Beer, glass bottle",1.0,LOW
+11,Beetroot,0.3,LOW
+12,Bell peppers,1.6,LOW
+13,Blue cheese,14.0,HIGH
+14,"Broad beans, dry",0.9,LOW
+15,Broccoli,0.6,LOW
+16,Butter,16.9,HIGH
+17,Button mushrooms,0.3,LOW
+18,Cabbage,0.2,LOW
+19,Cantaloupe melon,0.8,LOW
+20,Carrots,0.4,LOW
+21,"Cashew nuts, roasted",14.3,HIGH
+22,Cheddar,14.2,HIGH
+23,Chicken breast,4.1,MEDIUM
+24,Chicken nuggets,4.6,MEDIUM
+25,Chicken thighs,4.1,MEDIUM
+26,"Chickpeas, dry",1.1,LOW
+27,"Cod fillet, frozen",7.8,MEDIUM
+28,Cucumber,2.2,LOW
+29,Falafel,1.6,LOW
+30,Foam sweets,1.6,LOW
+31,"Gin, glass bottle",4.2,MEDIUM
+32,Grapes,1.1,LOW
+33,"Green peas, frozen",0.8,LOW
+34,Hard biscuits,4.6,MEDIUM
+35,"Herring fillet, pickled",7.8,MEDIUM
+36,Hummus,1.7,LOW
+37,Ice cream,4.3,MEDIUM
+38,"Kidney beans, dry",1.2,LOW
+39,Lamb meat,28.0,VERY HIGH
+40,"Lentils, dry",1.1,LOW
+41,Lettuce,0.6,LOW
+42,Mango,0.9,LOW
+43,Margarine,2.9,MEDIUM
+44,Milk chocolate,5.9,MEDIUM
+45,"Milk, full-fat",1.9,LOW
+46,"Milk, semi-skimmed",1.5,LOW
+47,Mozzarella,8.7,HIGH
+48,Oat milk,0.4,LOW
+49,Orange juice,0.9,LOW
+50,Oranges,0.4,LOW
+51,Peanut butter,2.1,LOW
+52,Peanuts,1.6,LOW
+53,"Pineapple, canned",1.1,LOW
+54,Plant-based burger,1.8,LOW
+55,Plant-based cheese,2.6,LOW
+56,Pork bacon,7.0,MEDIUM
+57,Pork chops,5.8,MEDIUM
+58,Pork ham,5.1,MEDIUM
+59,Pork mince,4.8,MEDIUM
+60,Pork sausage,5.6,MEDIUM
+61,Potato crisps,2.9,MEDIUM
+62,Potatoes,0.3,LOW
+63,"Prawns, frozen",19.9,VERY HIGH
+64,Raisins,2.3,LOW
+65,Raspberry sorbet,1.4,LOW
+66,Red wine,1.5,LOW
+67,Rice milk,0.7,LOW
+68,"Salmon fillet, frozen",7.0,MEDIUM
+69,Seitan,0.5,LOW
+70,Soft drink,1.1,LOW
+71,Soya milk,0.4,LOW
+72,"Spinach, frozen",0.3,LOW
+73,Strawberries,0.2,LOW
+74,"Sweetcorn, canned",1.4,LOW
+75,Tofu,1.3,LOW
+76,Tomatoes,1.8,LOW
+77,"Tuna, canned",9.3,HIGH
+78,Yoghurt,3.1,MEDIUM
