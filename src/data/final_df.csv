@@ -1,0 +1,383 @@
+item,Agriculture,Food_processing,Transport,Packaging,CO2_per_kg,CO2_level
+alfonsino,0.0,0.0,0.0,0.0,3.49,MEDIUM
+almond covered with chocolate,0.0,0.0,0.0,0.0,4.8,MEDIUM
+almond milk,0.0,0.0,0.0,0.0,0.42,LOW
+almond paste,0.0,0.0,0.0,0.0,2.98,MEDIUM
+almonds,5.2,0.1,0.4,0.4,6.1,MEDIUM
+anchovy,0.0,0.0,0.0,0.0,0.82,LOW
+anglerfish,0.0,0.0,0.0,0.0,12.29,HIGH
+apple juice,0.0,0.0,0.0,0.0,2.84,LOW
+apple pie,1.9,0.6,0.1,0.3,2.9,LOW
+apples,0.15,0.05,0.15,0.08,0.43,LOW
+apricot,0.0,0.0,0.0,0.0,0.3,LOW
+apricots dried,1.8,0.1,0.3,0.3,2.4,LOW
+artichoke,0.0,0.0,0.0,0.0,0.33,LOW
+asiago,0.0,0.0,0.0,0.0,10.24,HIGH
+asparagus,0.0,0.0,0.0,0.0,0.83,LOW
+avocado,0.7,0.0,0.3,0.1,1.1,LOW
+azuki bean flour,0.0,0.0,0.0,0.0,1.32,LOW
+bacon,0.0,0.0,0.0,0.0,4.03,MEDIUM
+bananas,0.22,0.08,0.3,0.1,0.68,LOW
+barley,0.19,0.13,0.04,0.76,1.18,LOW
+barley grains,0.0,0.0,0.0,0.0,0.48,LOW
+barnacle shellfish,0.0,0.0,0.0,0.0,2.3,LOW
+bean,0.0,0.0,0.0,0.0,0.43,LOW
+beans frozen,0.0,0.0,0.0,0.0,1.77,LOW
+beans in can,0.0,0.0,0.0,0.0,0.11,LOW
+beef (beef herd),82.15,1.81,0.49,0.58,165.37,VERY HIGH
+beef (dairy herd),26.69,1.55,0.59,0.62,54.59,VERY HIGH
+beef bone free meat,0.0,0.0,0.0,0.0,25.75,VERY HIGH
+beef fillet steak,64.7,0.1,0.1,0.1,64.8,VERY HIGH
+beef meat with bone,0.0,0.0,0.0,0.0,17.96,HIGH
+beef mince,20.1,0.1,0.1,0.3,21.0,VERY HIGH
+beef ribeye steak,45.4,0.1,0.1,0.1,45.5,VERY HIGH
+beef sirloin steak,31.7,0.1,0.1,0.1,31.8,VERY HIGH
+beer glass bottle,0.3,0.2,0.1,0.5,1.0,LOW
+beer in can,0.0,0.0,0.0,0.0,0.69,LOW
+beer modular can,0.0,0.0,0.0,0.0,0.53,LOW
+beet sugar,0.54,0.24,0.63,0.13,1.84,LOW
+beetroot,0.1,0.1,0.1,0.1,0.3,LOW
+bell peppers,1.3,0.1,0.1,0.2,1.6,LOW
+berries & grapes,0.74,0.0,0.24,0.23,1.95,LOW
+blackberry,0.0,0.0,0.0,0.0,0.42,LOW
+blue cheese,12.9,0.7,0.2,0.1,14.0,HIGH
+blueberry,0.0,0.0,0.0,0.0,0.78,LOW
+blueberry juice,0.0,0.0,0.0,0.0,3.0,MEDIUM
+brassicas,0.28,0.0,0.09,0.07,0.72,LOW
+bread frozen,0.0,0.0,0.0,0.0,1.31,LOW
+bread multicereal,0.0,0.0,0.0,0.0,0.7,LOW
+bread plain,0.0,0.0,0.0,0.0,0.89,LOW
+bread whole,0.0,0.0,0.0,0.0,0.77,LOW
+broad beans dry,0.8,0.0,0.1,0.1,0.9,LOW
+broccoli,0.3,0.1,0.1,0.2,0.6,LOW
+buckwheat flour,0.0,0.0,0.0,0.0,1.96,LOW
+buffalo bone free meat,0.0,0.0,0.0,0.0,78.8,VERY HIGH
+buffalo milk,0.0,0.0,0.0,0.0,3.57,MEDIUM
+butter,16.4,0.3,0.2,0.1,16.9,HIGH
+button mushrooms,0.2,0.1,0.1,0.1,0.3,LOW
+cabbage,0.2,0.1,0.1,0.1,0.23,LOW
+cakes and croissant,0.0,0.0,0.0,0.0,2.14,LOW
+camembert,0.0,0.0,0.0,0.0,7.55,MEDIUM
+cane sugar,1.75,0.04,0.79,0.12,4.41,MEDIUM
+cantaloupe melon,0.6,0.1,0.2,0.1,0.8,LOW
+carob,0.0,0.0,0.0,0.0,1.1,LOW
+carp,0.0,0.0,0.0,0.0,1.76,LOW
+carrots,0.1,0.1,0.1,0.2,0.4,LOW
+carrots canned,0.0,0.0,0.0,0.0,1.6,LOW
+carrots frozen,0.0,0.0,0.0,0.0,0.27,LOW
+cashew nut,0.0,0.0,0.0,0.0,1.38,LOW
+cashew nuts roasted,13.1,0.2,0.5,0.5,14.3,HIGH
+cassava,0.81,0.0,0.09,0.08,1.79,LOW
+catfish,0.0,0.0,0.0,0.0,8.93,HIGH
+cauliflower,0.0,0.0,0.0,0.0,0.31,LOW
+ceddar,0.0,0.0,0.0,0.0,11.21,HIGH
+celery,0.0,0.0,0.0,0.0,0.32,LOW
+cheddar,0.0,0.9,0.2,0.1,14.2,HIGH
+cheese,19.92,0.74,0.14,0.5,40.48,VERY HIGH
+cheese semi-hard,0.0,0.0,0.0,0.0,8.65,MEDIUM
+cherry,0.0,0.0,0.0,0.0,0.46,LOW
+chestnut,0.0,0.0,0.0,0.0,0.44,LOW
+chicken bone free meat,0.0,0.0,0.0,0.0,3.68,MEDIUM
+chicken breast,0.0,0.1,0.1,0.1,4.1,MEDIUM
+chicken meat with bone,0.0,0.0,0.0,0.0,2.82,LOW
+chicken nuggets,3.3,1.1,0.1,0.1,4.6,MEDIUM
+chicken thighs,0.0,0.1,0.1,0.1,4.1,MEDIUM
+chickpea,0.0,0.0,0.0,0.0,0.77,LOW
+chickpeas dry,0.7,0.1,0.4,0.1,1.1,LOW
+chilly,0.0,0.0,0.0,0.0,0.8,LOW
+chocolate ice cream,0.0,0.0,0.0,0.0,6.6,MEDIUM
+chocolate or cream filled cookies,0.0,0.0,0.0,0.0,1.53,LOW
+citrus fruit,0.16,0.0,0.09,0.06,0.47,LOW
+clementine,0.0,0.0,0.0,0.0,0.41,LOW
+cocoa cakes and croissant,0.0,0.0,0.0,0.0,1.94,LOW
+coconut,0.0,0.0,0.0,0.0,1.78,LOW
+coconut milk,0.0,0.0,0.0,0.0,0.41,LOW
+cod,0.0,0.0,0.0,0.0,3.08,MEDIUM
+cod fillet frozen,0.0,0.0,0.3,0.5,7.8,MEDIUM
+cod fish stick,0.0,0.0,0.0,0.0,2.14,LOW
+coffee,14.57,0.61,0.13,1.74,31.01,VERY HIGH
+coffee drip filtered,0.0,0.0,0.0,0.0,0.6,LOW
+coffee green,0.0,0.0,0.0,0.0,0.49,LOW
+coffee ground,0.0,0.0,0.0,0.0,5.13,MEDIUM
+coffee parchment,0.0,0.0,0.0,0.0,8.29,MEDIUM
+coffee soluble powder,0.0,0.0,0.0,0.0,0.33,LOW
+corn canned,0.0,0.0,0.0,0.0,1.36,LOW
+cornflakes,0.0,0.0,0.0,0.0,2.64,LOW
+cow milk,0.0,0.0,0.0,0.0,1.31,LOW
+cowpea,0.0,0.0,0.0,0.0,0.49,LOW
+cranberry,0.0,0.0,0.0,0.0,0.87,LOW
+cranberry juice,0.0,0.0,0.0,0.0,2.88,LOW
+cream,0.0,0.0,0.0,0.0,5.45,MEDIUM
+crispbread,0.0,0.0,0.0,0.0,1.35,LOW
+cucumber,2.1,0.1,0.1,0.1,2.2,LOW
+currant,0.0,0.0,0.0,0.0,0.64,LOW
+cuttlefish,0.0,0.0,0.0,0.0,5.05,MEDIUM
+dark chocolate,32.5,0.33,0.11,0.76,65.87,VERY HIGH
+date dried fruit,0.0,0.0,0.0,0.0,0.6,LOW
+diamond fish,0.0,0.0,0.0,0.0,6.02,MEDIUM
+duck meat bone free,0.0,0.0,0.0,0.0,4.1,MEDIUM
+duck meat with bone,0.0,0.0,0.0,0.0,2.07,LOW
+durum wheat,0.0,0.0,0.0,0.0,0.47,LOW
+eel,0.0,0.0,0.0,0.0,3.88,MEDIUM
+egg pasta,0.0,0.0,0.0,0.0,3.15,MEDIUM
+eggplant,0.0,0.0,0.0,0.0,1.55,LOW
+eggs,4.24,0.0,0.08,0.2,8.76,HIGH
+emmental,0.0,0.0,0.0,0.0,8.2,MEDIUM
+emu bone free meat,0.0,0.0,0.0,0.0,1.5,LOW
+espresso,0.0,0.0,0.0,0.0,0.55,LOW
+exotic fruit,0.0,0.0,0.0,0.0,2.43,LOW
+falafel,0.9,0.2,0.1,0.3,1.6,LOW
+fennel,0.0,0.0,0.0,0.0,0.48,LOW
+fig,0.0,0.0,0.0,0.0,0.26,LOW
+fig juice,0.0,0.0,0.0,0.0,3.2,MEDIUM
+fish (farmed),11.08,0.04,0.25,0.23,22.64,VERY HIGH
+fish mixed,0.0,0.0,0.0,0.0,4.99,MEDIUM
+fish stick frozen,0.0,0.0,0.0,0.0,2.26,LOW
+flatfish,0.0,0.0,0.0,0.0,6.41,MEDIUM
+flathead,0.0,0.0,0.0,0.0,2.56,LOW
+flavored crackers,0.0,0.0,0.0,0.0,0.93,LOW
+foam sweets,0.5,0.8,0.1,0.2,1.6,LOW
+fork beard,0.0,0.0,0.0,0.0,8.01,MEDIUM
+garlic,0.0,0.0,0.0,0.0,0.71,LOW
+gerkin,0.0,0.0,0.0,0.0,1.17,LOW
+gin glass bottle,0.9,2.5,0.1,0.8,4.2,MEDIUM
+ginger,0.0,0.0,0.0,0.0,0.88,LOW
+goat cheese,0.0,0.0,0.0,0.0,8.35,MEDIUM
+goat milk,0.0,0.0,0.0,0.0,1.44,LOW
+gooseberry,0.0,0.0,0.0,0.0,0.84,LOW
+graham flour,0.0,0.0,0.0,0.0,0.47,LOW
+grana padano,0.0,0.0,0.0,0.0,15.34,HIGH
+grapes,0.4,0.1,0.4,0.3,1.1,LOW
+green bean,0.0,0.0,0.0,0.0,0.52,LOW
+green beans frozen,0.0,0.0,0.0,0.0,2.74,LOW
+green beans in can,0.0,0.0,0.0,0.0,1.45,LOW
+green peas frozen,0.4,0.1,0.1,0.2,0.8,LOW
+groundnuts,2.07,0.41,0.13,0.16,4.43,MEDIUM
+guava,0.0,0.0,0.0,0.0,0.28,LOW
+haddock,0.0,0.0,0.0,0.0,3.1,MEDIUM
+haddock frozen,0.0,0.0,0.0,0.0,3.72,MEDIUM
+hake,0.0,0.0,0.0,0.0,10.4,HIGH
+hake fish stick,0.0,0.0,0.0,0.0,2.14,LOW
+hard biscuits,4.2,0.2,0.1,0.1,4.6,MEDIUM
+hazelnut,0.0,0.0,0.0,0.0,1.11,LOW
+hazelnut covered with chocolate,0.0,0.0,0.0,0.0,3.43,MEDIUM
+hazelnut cream,0.0,0.0,0.0,0.0,2.71,LOW
+hazelnut paste,0.0,0.0,0.0,0.0,1.69,LOW
+herring,0.0,0.0,0.0,0.0,1.24,LOW
+herring fillet pickled,0.4,6.1,0.1,1.1,7.8,MEDIUM
+herring frozen,0.0,0.0,0.0,0.0,1.3,LOW
+honey,0.0,0.0,0.0,0.0,1.74,LOW
+hummus,0.7,0.3,0.3,0.4,1.7,LOW
+ice cream,2.6,0.4,0.1,0.9,4.3,MEDIUM
+kangaroo meat,0.0,0.0,0.0,0.0,4.1,MEDIUM
+ketchup,0.0,0.0,0.0,0.0,1.46,LOW
+kidney beans dry,0.5,0.1,0.6,0.1,1.2,LOW
+kiwi,0.0,0.0,0.0,0.0,0.49,LOW
+kiwi juice,0.0,0.0,0.0,0.0,2.84,LOW
+krill,0.0,0.0,0.0,0.0,5.54,MEDIUM
+lamb & mutton,30.96,1.54,0.68,0.65,63.25,VERY HIGH
+lamb bone free meat,0.0,0.0,0.0,0.0,25.23,VERY HIGH
+lamb meat,27.7,0.1,0.3,0.1,28.0,VERY HIGH
+lamb meat with bone,0.0,0.0,0.0,0.0,16.7,HIGH
+lemon,0.0,0.0,0.0,0.0,0.22,LOW
+lentil,0.0,0.0,0.0,0.0,1.03,LOW
+lentils dry,0.9,0.0,0.2,0.1,1.1,LOW
+lettuce,0.5,0.1,0.1,0.1,1.54,LOW
+lime,0.0,0.0,0.0,0.0,0.22,LOW
+ling,0.0,0.0,0.0,0.0,6.45,MEDIUM
+lobster,0.0,0.0,0.0,0.0,20.25,VERY HIGH
+mackerel,0.0,0.0,0.0,0.0,1.8,LOW
+mackerel frozen,0.0,0.0,0.0,0.0,0.99,LOW
+maize,1.2,0.08,0.09,0.13,2.62,LOW
+maize flour,0.0,0.0,0.0,0.0,1.31,LOW
+maize grains,0.0,0.0,0.0,0.0,0.48,LOW
+makerel fish stick,0.0,0.0,0.0,0.0,1.02,LOW
+mandarin,0.0,0.0,0.0,0.0,0.45,LOW
+mango,0.5,0.1,0.4,0.1,0.9,LOW
+mango juice,0.0,0.0,0.0,0.0,2.96,MEDIUM
+margarine,1.8,0.8,0.2,0.1,2.9,LOW
+mascarpone,0.0,0.0,0.0,0.0,5.7,MEDIUM
+mayonnaise,0.0,0.0,0.0,0.0,2.04,LOW
+mealworms,0.0,0.0,0.0,0.0,2.84,LOW
+megrim,0.0,0.0,0.0,0.0,14.15,HIGH
+melon,0.0,0.0,0.0,0.0,1.02,LOW
+milk,2.26,0.15,0.09,0.37,4.98,MEDIUM
+milk chocolate,4.1,1.4,0.3,0.1,5.9,MEDIUM
+milk full-fat,1.5,0.1,0.1,0.2,1.9,LOW
+milk semi-skimmed,1.1,0.1,0.1,0.2,1.5,LOW
+millet flour,0.0,0.0,0.0,0.0,1.37,LOW
+millet grains,0.0,0.0,0.0,0.0,0.86,LOW
+mineral water,0.0,0.0,0.0,0.0,0.49,LOW
+mixed fish frozen,0.0,0.0,0.0,0.0,1.04,LOW
+mixed nuts,0.0,0.0,0.0,0.0,0.47,LOW
+mozzarella,7.7,0.5,0.3,0.2,8.7,MEDIUM
+mung bean flour,0.0,0.0,0.0,0.0,1.49,LOW
+mushroom,0.0,0.0,0.0,0.0,2.06,LOW
+mussels,0.0,0.0,0.0,0.0,0.46,LOW
+nuts,0.11,0.05,0.11,0.16,0.49,LOW
+oat grains,0.0,0.0,0.0,0.0,0.67,LOW
+oat meal,0.0,0.0,0.0,0.0,0.87,LOW
+oat milk,0.2,0.1,0.1,0.1,0.4,LOW
+oatmeal,1.87,0.06,0.09,0.13,3.96,MEDIUM
+octopus,0.0,0.0,0.0,0.0,5.8,MEDIUM
+octopus frozen,0.0,0.0,0.0,0.0,7.88,MEDIUM
+olive oil,3.35,0.57,0.41,0.78,7.89,MEDIUM
+olives,0.0,0.0,0.0,0.0,0.64,LOW
+onion,0.0,0.0,0.0,0.0,0.22,LOW
+onions & leeks,0.21,0.0,0.09,0.08,0.59,LOW
+orange,0.0,0.0,0.0,0.0,0.3,LOW
+orange juice,0.2,0.1,0.4,0.2,0.9,LOW
+oranges,0.1,0.1,0.3,0.1,0.4,LOW
+other fruit,0.5,0.02,0.18,0.06,1.24,LOW
+other pulses,1.12,0.0,0.1,0.39,2.73,LOW
+other vegetables,0.18,0.06,0.17,0.06,0.59,LOW
+palm nut,0.0,0.0,0.0,0.0,0.8,LOW
+palm oil,4.64,1.13,0.19,0.83,10.3,HIGH
+parmigiano reggiano,0.0,0.0,0.0,0.0,12.54,HIGH
+pasta,0.0,0.0,0.0,0.0,1.21,LOW
+pea,0.0,0.0,0.0,0.0,0.45,LOW
+peach,0.0,0.0,0.0,0.0,0.39,LOW
+peanut butter,0.5,0.2,0.5,0.9,2.1,LOW
+peanut oil,0.0,0.0,0.0,0.0,2.9,LOW
+peanut paste,0.0,0.0,0.0,0.0,1.84,LOW
+peanuts,0.5,0.1,0.6,0.5,1.6,LOW
+pear,0.0,0.0,0.0,0.0,0.27,LOW
+pear juice,0.0,0.0,0.0,0.0,0.49,LOW
+peas,0.72,0.0,0.1,0.08,1.62,LOW
+pecorino,0.0,0.0,0.0,0.0,17.15,HIGH
+pepper,0.0,0.0,0.0,0.0,1.85,LOW
+pesto,0.0,0.0,0.0,0.0,2.71,LOW
+pesto without garlic,0.0,0.0,0.0,0.0,2.72,LOW
+pig meat,9.02,0.42,0.5,0.71,19.25,HIGH
+pilchard,0.0,0.0,0.0,0.0,1.1,LOW
+pineapple,0.0,0.0,0.0,0.0,0.41,LOW
+pineapple canned,0.2,0.1,0.4,0.4,1.1,LOW
+pineapple juice,0.0,0.0,0.0,0.0,2.78,LOW
+pistachio,0.0,0.0,0.0,0.0,1.6,LOW
+plaice,0.0,0.0,0.0,0.0,6.13,MEDIUM
+plain crackers,0.0,0.0,0.0,0.0,1.35,LOW
+plant-based burger,0.7,0.5,0.2,0.5,1.8,LOW
+plant-based cheese,1.6,0.3,0.2,0.2,2.6,LOW
+plum,0.0,0.0,0.0,0.0,0.26,LOW
+pollock,0.0,0.0,0.0,0.0,1.4,LOW
+pollock frozen,0.0,0.0,0.0,0.0,0.9,LOW
+pollock stick frozen,0.0,0.0,0.0,0.0,2.14,LOW
+pomegranate,0.0,0.0,0.0,0.0,0.74,LOW
+pomelo,0.0,0.0,0.0,0.0,0.51,LOW
+pomfret,0.0,0.0,0.0,0.0,6.63,MEDIUM
+porbeagle,0.0,0.0,0.0,0.0,11.44,HIGH
+pork bacon,6.9,0.1,0.1,0.1,7.0,MEDIUM
+pork bone free meat,0.0,0.0,0.0,0.0,5.72,MEDIUM
+pork chops,5.7,0.1,0.1,0.1,5.8,MEDIUM
+pork ham,0.0,0.1,0.1,0.1,7.95,MEDIUM
+pork meat with bone,0.0,0.0,0.0,0.0,3.44,MEDIUM
+pork mince,4.7,0.1,0.1,0.1,4.8,MEDIUM
+pork neck,0.0,0.0,0.0,0.0,4.03,MEDIUM
+pork sausage,4.6,0.7,0.1,0.2,5.6,MEDIUM
+pork sausages,0.0,0.0,0.0,0.0,17.94,HIGH
+potato,0.0,0.0,0.0,0.0,0.24,LOW
+potato crisps,1.3,0.0,0.1,0.3,2.9,LOW
+potatoes,0.2,0.0,0.1,0.09,0.42,LOW
+poultry meat,6.89,0.61,0.38,0.53,14.69,HIGH
+prawns frozen,0.0,16.5,2.6,0.7,19.9,HIGH
+prawns/shrimps,0.0,0.0,0.0,0.0,7.04,MEDIUM
+prawns/shrimps frozen,0.0,0.0,0.0,0.0,15.07,HIGH
+pumpkin,0.0,0.0,0.0,0.0,0.24,LOW
+quinoa grains,0.0,0.0,0.0,0.0,0.97,LOW
+quorne,0.0,0.0,0.0,0.0,2.5,LOW
+rabbit meat with bone,0.0,0.0,0.0,0.0,4.31,MEDIUM
+radish,0.0,0.0,0.0,0.0,0.15,LOW
+raisin,0.0,0.0,0.0,0.0,0.81,LOW
+raisins,1.7,0.1,0.4,0.1,2.3,LOW
+rape seed,0.0,0.0,0.0,0.0,0.78,LOW
+rapeseed oil,2.36,0.18,0.18,0.82,5.72,MEDIUM
+raspberries frozen,0.0,0.0,0.0,0.0,1.18,LOW
+raspberry,0.0,0.0,0.0,0.0,3.99,MEDIUM
+raspberry sorbet,0.2,0.2,0.1,0.9,1.4,LOW
+red wine,0.6,0.1,0.2,0.7,1.5,LOW
+rhombus,0.0,0.0,0.0,0.0,8.41,MEDIUM
+rice,3.53,0.07,0.1,0.14,7.3,MEDIUM
+rice milk,0.3,0.1,0.1,0.2,0.7,LOW
+ricotta,0.0,0.0,0.0,0.0,3.4,MEDIUM
+rock fish,0.0,0.0,0.0,0.0,6.94,MEDIUM
+rockmelon,0.0,0.0,0.0,0.0,0.39,LOW
+root vegetables,0.16,0.0,0.11,0.08,0.51,LOW
+rye grains,0.0,0.0,0.0,0.0,0.38,LOW
+salmon,0.0,0.0,0.0,0.0,3.37,MEDIUM
+salmon fillet frozen,0.0,0.2,0.1,0.6,7.0,MEDIUM
+sardine,0.0,0.0,0.0,0.0,0.9,LOW
+sea-bass,0.0,0.0,0.0,0.0,3.6,MEDIUM
+seitan,0.3,0.1,0.1,0.1,0.5,LOW
+sesam seed,0.0,0.0,0.0,0.0,0.88,LOW
+shark,0.0,0.0,0.0,0.0,11.44,HIGH
+shrimps (farmed),17.81,0.0,0.33,0.89,36.84,VERY HIGH
+simple cookies,0.0,0.0,0.0,0.0,1.39,LOW
+snails,0.0,0.0,0.0,0.0,0.73,LOW
+soft drink,0.1,0.8,0.1,0.1,1.1,LOW
+sole,0.0,0.0,0.0,0.0,5.4,MEDIUM
+sole frozen,0.0,0.0,0.0,0.0,14.28,HIGH
+sorghum flour,0.0,0.0,0.0,0.0,1.33,LOW
+sorghum grains,0.0,0.0,0.0,0.0,0.88,LOW
+soy burger,0.0,0.0,0.0,0.0,1.48,LOW
+soy cream,0.0,0.0,0.0,0.0,1.62,LOW
+soy meal,0.0,0.0,0.0,0.0,0.62,LOW
+soy milk,0.27,0.16,0.11,0.37,1.02,LOW
+soy yogurt,0.0,0.0,0.0,0.0,1.36,LOW
+soya milk,0.1,0.1,0.1,0.2,0.4,LOW
+soybean,0.0,0.0,0.0,0.0,0.56,LOW
+soybean oil,4.28,0.29,0.28,0.83,9.67,HIGH
+spinach,0.0,0.0,0.0,0.0,0.34,LOW
+spinach frozen,0.2,0.1,0.1,0.1,0.3,LOW
+squid,0.0,0.0,0.0,0.0,6.91,MEDIUM
+starchy roots,0.0,0.0,0.0,0.0,0.29,LOW
+stracchino,0.0,0.0,0.0,0.0,4.92,MEDIUM
+strawberries,0.1,0.0,0.1,0.1,1.44,LOW
+strawberry juice,0.0,0.0,0.0,0.0,2.68,LOW
+sugar,0.0,0.0,0.0,0.0,0.78,LOW
+sunflower oil,2.1,0.21,0.18,0.82,5.2,MEDIUM
+sunflower seed,0.0,0.0,0.0,0.0,1.16,LOW
+swardfish,0.0,0.0,0.0,0.0,12.84,HIGH
+swede,0.0,0.0,0.0,0.0,0.29,LOW
+sweet potato,0.0,0.0,0.0,0.0,0.27,LOW
+sweetcorn canned,0.7,0.1,0.2,0.5,1.4,LOW
+tangerin,0.0,0.0,0.0,0.0,0.38,LOW
+tempeh,0.0,0.0,0.0,0.0,1.1,LOW
+tofu,0.92,0.64,0.19,0.38,2.42,LOW
+tomato,0.0,0.0,0.0,0.0,1.26,LOW
+tomato & basil,0.0,0.0,0.0,0.0,1.14,LOW
+tomato arrabbiata,0.0,0.0,0.0,0.0,1.24,LOW
+tomato chopped,0.0,0.0,0.0,0.0,1.47,LOW
+tomato peeled,0.0,0.0,0.0,0.0,1.3,LOW
+tomato puree,0.0,0.0,0.0,0.0,1.03,LOW
+tomato sauce,0.0,0.0,0.0,0.0,1.19,LOW
+tomatoes,1.39,0.06,0.14,0.14,2.16,LOW
+trout,0.0,0.0,0.0,0.0,4.2,MEDIUM
+trout frozen,0.0,0.0,0.0,0.0,4.38,MEDIUM
+tuna,0.0,0.0,0.0,0.0,3.68,MEDIUM
+tuna canned,0.6,7.3,0.5,0.9,9.3,HIGH
+tuna frozen,0.0,0.0,0.0,0.0,2.64,LOW
+turbot,0.0,0.0,0.0,0.0,14.51,HIGH
+turkey meat bone free,0.0,0.0,0.0,0.0,4.08,MEDIUM
+turkey meat with bone,0.0,0.0,0.0,0.0,2.13,LOW
+turnip,0.0,0.0,0.0,0.0,0.35,LOW
+vanilla ice cream,0.0,0.0,0.0,0.0,4.3,MEDIUM
+vegetables,0.0,0.0,0.0,0.0,0.54,LOW
+walnut,0.0,0.0,0.0,0.0,2.06,LOW
+watermelon,0.0,0.0,0.0,0.0,0.52,LOW
+wheat & rye,0.92,0.21,0.13,0.15,2.12,LOW
+wheat grains,0.0,0.0,0.0,0.0,0.57,LOW
+wheat plain flour,0.0,0.0,0.0,0.0,0.52,LOW
+whiting,0.0,0.0,0.0,0.0,2.66,LOW
+whole wheat flour,0.0,0.0,0.0,0.0,0.36,LOW
+wholegrain crackers,0.0,0.0,0.0,0.0,0.97,LOW
+wine,0.57,0.14,0.09,0.79,2.02,LOW
+wine white,0.0,0.0,0.0,0.0,0.44,LOW
+yeast compressed,0.0,0.0,0.0,0.0,0.82,LOW
+yeast dried,0.0,0.0,0.0,0.0,3.29,MEDIUM
+yeast liquid,0.0,0.0,0.0,0.0,0.5,LOW
+yoghurt,2.7,0.2,0.1,0.1,3.1,MEDIUM
+yogurt flavoured,0.0,0.0,0.0,0.0,2.85,LOW
+yogurt lactose free,0.0,0.0,0.0,0.0,3.47,MEDIUM
+yogurt white,0.0,0.0,0.0,0.0,1.69,LOW
+zucchini,0.0,0.0,0.0,0.0,1.24,LOW
+zucchini frozen,0.0,0.0,0.0,0.0,1.35,LOW
