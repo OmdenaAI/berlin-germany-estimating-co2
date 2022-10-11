@@ -42,3 +42,8 @@ pip install -r requirements.txt
 ```
 
 ## Data
+
+1. [Data reference 1](data/00_data.csv) : [source](https://ig.ft.com/carbon-food-labelling/)
+2. [Data reference 2](data/01_items_carbon-emission.csv) : [source](https://ig.ft.com/carbon-food-labelling/)
+3. [Data reference 3](data/02_food-emissions-supply-chain.csv) : [source](https://ourworldindata.org/grapher/food-emissions-supply-chain?tab=table&country=Beef+%28beef+herd%29~Cheese~Poultry+Meat~Milk~Eggs~Rice~Pig+Meat~Peas~Bananas~Wheat+%26+Rye~Fish+%28farmed%29~Lamb+%26+Mutton~Beef+%28dairy+herd%29~Shrimps+%28farmed%29~Tofu~Maize~Coffee~Other+Pulses~Citrus+Fruit~Other+Fruit~Sunflower+Oil~Apples~Brassicas~Olive+Oil~Potatoes~Palm+Oil~Barley~Soybean+Oil~Wine~Root+Vegetables~Dark+Chocolate~Cane+Sugar~Nuts~Tomatoes~Rapeseed+Oil~Groundnuts)
+4. [Data reference 4](data/01_items_carbon-emission.csv) : [source](https://www.nature.com/articles/s41597-021-00909-8#Sec15)
