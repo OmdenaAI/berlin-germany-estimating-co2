@@ -29,9 +29,9 @@
 - Results           - Folder to store final analysis modelling results for the project.
 
 
-Environment: 
+## Environment 
 
-For installing the virtual environment you can either use the Makefile and run `make setup` or install it manually with the following commands: 
+For installing the virtual environment use following commands: 
 
 ```Bash
 pyenv local 3.9.8
@@ -40,3 +40,5 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+## Data
