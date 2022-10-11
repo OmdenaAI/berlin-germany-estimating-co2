@@ -18,7 +18,7 @@ with st.sidebar:
 
     #-------products comparison------
 
-    st.sidebar.header('Products CO2 Emission Comparison')
+    st.sidebar.header('CO2 Emission Comparison')
     product_list = df['item'].unique().tolist()
     product_comparison = st.multiselect('Choose the products', product_list)
 
@@ -65,8 +65,8 @@ try:
         st.metric('CO2 level', co2_level)
 
 
-    if text_input == 'almonds':
-        st.image('licensed-image.jpg', width=200)
+    #if text_input == 'almonds':
+    #    st.image('licensed-image.jpg', width=200)
 
     # Ploting with Altair
 
@@ -94,7 +94,7 @@ try:
     #------Product comparison-----
     df = df[df['item'].isin(product_comparison)]
 
-    fig2 = px.bar(df, x='CO2_per_kg', y='item', color='CO2_per_kg', log_x=True, title='Carbon Footprint Comparison for Products', labels={'CO2_per_kg': 'Carbon Emission per kg', 'item': 'Products'})
+    fig2 = px.bar(df, x='CO2_per_kg', y='item', color='CO2_per_kg', log_x=True, title='Carbon Footprint Comparison', labels={'CO2_per_kg': 'Carbon Emission per kg', 'item': 'Products'})
     fig2.update_layout(width=900)
 
     st.write(fig2)
