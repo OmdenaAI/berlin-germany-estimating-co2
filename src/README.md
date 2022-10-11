@@ -27,3 +27,17 @@
   - All Task folders should have a README.md file with task Details and task goals along with an info table containing all code/notebook files with their links and information
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
+
+
+Environment: 
+
+For installing the virtual environment you can either use the Makefile and run `make setup` or install it manually with the following commands: 
+
+```Bash
+pyenv local 3.9.8
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+```Bash
