@@ -8,7 +8,7 @@ import plotly.express as px
 
 st.title('CO2-Dashboard')
 
-df = pd.read_csv('final_df.csv')
+df = pd.read_csv('src/tasks/task-3-dashboard/final_df.csv')
 
 all_items = df['item']
 
