@@ -10,6 +10,8 @@ st.title('CO2-Dashboard')
 
 df = pd.read_csv('src/tasks/task-3-dashboard/final_df.csv')
 
+st.table(df)
+
 all_items = df['item']
 
 with st.sidebar:
