@@ -2,8 +2,7 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
-
+# Germany Chapter: CO2 Footrace calculation
 
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
