@@ -20,7 +20,8 @@ with st.sidebar:
 
     st.sidebar.header('CO2 Emission Comparison')
     product_list = df['item'].unique().tolist()
-    product_comparison = st.multiselect('Choose the products', product_list)
+    product_comparison = st.multiselect(
+        'Choose the products', product_list, default=[text_input])
 
     # ------product comparison end----
 
