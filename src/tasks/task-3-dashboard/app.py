@@ -10,8 +10,6 @@ st.title('CO2-Dashboard')
 
 df = pd.read_csv('src/tasks/task-3-dashboard/final_df.csv')
 
-st.table(df)
-
 all_items = df['item']
 
 with st.sidebar:
@@ -29,6 +27,7 @@ with st.sidebar:
 try:
 
     item_row = df[df['item'] == text_input]
+    st.write(item_row)
 
     co2 = item_row['CO2_per_kg'].iloc[0]
     co2_level = item_row['CO2_level'].iloc[0]
